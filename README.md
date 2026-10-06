@@ -13,18 +13,15 @@ This repository is a public portfolio and project overview. The production sourc
 
 ### Maclyn Mobile
 
-<img width="362" height="453" alt="View recent photos 4" src="https://github.com/user-attachments/assets/1989abe8-e8ac-4c15-8b49-19f99f3f5a35" />
+<img width="362" height="453" alt="Maclyn Outdoors Load Page" src="https://github.com/user-attachments/assets/1989abe8-e8ac-4c15-8b49-19f99f3f5a35" />
 
-
-<img width="316" height="405" alt="View recent photos 2" src="https://github.com/user-attachments/assets/54b3fbcd-044b-4441-a19c-34198ee12411" />
-
-
+<img width="316" height="405" alt="Maclyn Outdoors Dashboard" src="https://github.com/user-attachments/assets/54b3fbcd-044b-4441-a19c-34198ee12411" />
 
 ### Garmin Connect IQ
 
-<img width="480" height="528" alt="View recent photos" src="https://github.com/user-attachments/assets/8f091908-5d89-4a1e-93af-81c091150e77" />
+<img width="480" height="528" alt="Watch" src="https://github.com/user-attachments/assets/8f091908-5d89-4a1e-93af-81c091150e77" />
 
-<img width="353" height="508" alt="View recent photos 3" src="https://github.com/user-attachments/assets/61b82f5e-08d1-40fc-97d9-539c62f91908" />
+<img width="353" height="508" alt="Watch 2" src="https://github.com/user-attachments/assets/61b82f5e-08d1-40fc-97d9-539c62f91908" />
 
 
 ---
